@@ -170,8 +170,7 @@ beautifulsoup4
 
 **Huzaifa Bin Saeed**
 📍 Pakistan
-💼 Final Year Project – Real Estate Data Collection and Analytics
-📧 Contact: [Your Email or GitHub Profile Link]
+📧 Contact: huzaifasaeed661@gmail.com
 
 ---
 
