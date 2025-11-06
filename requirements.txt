@@ -1,0 +1,16 @@
+# Web scraping framework
+Scrapy==2.11.1
+
+# MongoDB connector
+pymongo==4.7.2
+
+# URL handling and encoding
+urllib3==2.2.3
+
+# JSON parsing and utilities
+simplejson==3.19.2
+
+# Optional: if you later use Playwright integration
+scrapy-playwright==0.0.34
+
+
