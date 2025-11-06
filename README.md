@@ -1,6 +1,3 @@
-Perfect 👍 — here’s a **complete, professional `README.md`** for your GitHub repository.
-It explains everything: Scrapy, MongoDB Atlas, dataset handling, setup steps, and license — all in clean Markdown format.
-
 ---
 
 ## 🏠 Zameen.com Real Estate Data Scraper
@@ -35,8 +32,11 @@ The scraped data is stored in **MongoDB Atlas** and exported as a dataset (`zame
 
 ---
 
-### 🗂️ Folder Structure
+---
 
+### 🧩 Project Structure
+
+```
 zameen-realestate-scrapy-project/
 │
 ├── zameendata/
@@ -56,7 +56,9 @@ zameen-realestate-scrapy-project/
 ├── LICENSE                              # MIT License for open-source use
 ├── README.md                            # Full project documentation
 └── zameen_updated_property_dataset.zip  # Final dataset (CSV file inside)
+```
 
+---
 
 ### 🧩 Scraped Fields
 
@@ -192,5 +194,3 @@ furnished to do so, subject to the following conditions...
 
 ---
 
-Would you like me to include a **Google Drive link placeholder** (like `[Download Dataset]()`), or are you uploading the `.zip` directly into the repository using **Git LFS**?
-I can edit the README accordingly.
